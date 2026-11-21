@@ -1,8 +1,0 @@
-this is text
-
-
-Change(locally) -> Staged -> commited -> pushed(x)
-
-
-commit 1 -> 
-
