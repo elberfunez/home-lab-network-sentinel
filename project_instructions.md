@@ -1,4 +1,4 @@
-# Home Lab Network Sentinel (v4, for a Pi that is already installed)
+# Home Lab Network Sentinel Project
 
 Build a Python tool that checks TCP ports on your own Raspberry Pi, compares them with a baseline, makes an HTTP check, and saves a CSV report.
 
