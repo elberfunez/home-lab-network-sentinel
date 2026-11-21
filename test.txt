@@ -1,4 +1,8 @@
 this is text
 
 
-Change(locally) -> Staged -> commited -> pushed
+Change(locally) -> Staged(x) -> commited -> pushed
+
+
+commit 1 -> 
+
